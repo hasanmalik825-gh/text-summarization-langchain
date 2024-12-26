@@ -1,0 +1,7 @@
+langchain_groq
+langchain
+fastapi
+python-multipart
+langchain-community
+langchain-core
+uvicorn
